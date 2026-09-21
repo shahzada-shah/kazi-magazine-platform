@@ -16,20 +16,6 @@ The editorial platform behind [kazimagazine.com](https://kazimagazine.com): a Re
 
 > This is a showcase. The production codebase is private; this repository documents the architecture, the engineering decisions and the results. Happy to walk through the code in an interview.
 
-## Demo
-
-<!-- Record both at 1440×900, ≤ 8 s each, export as GIF or MP4→GIF at 896px wide. -->
-<table>
-  <tr>
-    <td width="50%"><img src="docs/readme/demo-home.gif" alt="Homepage: sidebar-driven digital cover hero and 3D coverflow"></td>
-    <td width="50%"><img src="docs/readme/demo-globe.gif" alt="Cover Globe: 54 covers on a spinnable sphere, dragged and scattered"></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Homepage hero + featured coverflow</sub></td>
-    <td align="center"><sub>Cover Globe on <code>/digital-covers</code></sub></td>
-  </tr>
-</table>
-
 ## At a glance
 
 | Number | What it is |
