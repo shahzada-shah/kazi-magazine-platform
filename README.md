@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <img alt="TypeScript 6" src="https://img.shields.io/badge/TypeScript-6.0-2f2f2f?style=flat-square&logo=typescript&logoColor=fafafa&labelColor=121212">
-  <img alt="React 19" src="https://img.shields.io/badge/React-19-2f2f2f?style=flat-square&logo=react&logoColor=fafafa&labelColor=121212">
-  <img alt="Vite 8" src="https://img.shields.io/badge/Vite-8-2f2f2f?style=flat-square&logo=vite&logoColor=fafafa&labelColor=121212">
-  <img alt="Tailwind CSS v4" src="https://img.shields.io/badge/Tailwind_CSS-v4-2f2f2f?style=flat-square&logo=tailwindcss&logoColor=fafafa&labelColor=121212">
-  <img alt="Sanity" src="https://img.shields.io/badge/Sanity-CMS-2f2f2f?style=flat-square&logo=sanity&logoColor=fafafa&labelColor=121212">
-  <img alt="Cloudflare Pages + Workers" src="https://img.shields.io/badge/Cloudflare-Pages_%2B_Workers-2f2f2f?style=flat-square&logo=cloudflare&logoColor=fafafa&labelColor=121212">
   <a href="https://kazimagazine.com"><img alt="Live site" src="https://img.shields.io/badge/live-kazimagazine.com-eb2d2d?style=flat-square&labelColor=121212"></a>
 </p>
 
@@ -101,4 +95,4 @@ Hashed `/assets/*` are cached `immutable`; the shell is `no-store`. After a depl
 ## Author
 
 **Shahzada Shah** · Full-stack engineer
-[shahzada.dev](https://shahzada.dev) · [GitHub](https://github.com/shahzada-shah) · [LinkedIn](https://linkedin.com/in/your-handle)
+[GitHub](https://github.com/shahzada-shah)
