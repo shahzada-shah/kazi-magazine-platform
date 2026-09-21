@@ -12,7 +12,7 @@
 
 The editorial platform behind [kazimagazine.com](https://kazimagazine.com): a React 19 + TypeScript single-page magazine with a Sanity content lake, 3D cover experiences, and a Cloudflare Worker that serves crawlers, sitemaps and view analytics at the edge.
 
-**Live:** [kazimagazine.com](https://kazimagazine.com) · **Role:** sole engineer, design to deploy · **Author:** [Shahzada Shah](https://shahzada.dev)
+**Live:** [kazimagazine.com](https://kazimagazine.com) · **Role:** sole engineer, design to deploy · **Author:** Shahzada Shah
 
 > This is a showcase. The production codebase is private; this repository documents the architecture, the engineering decisions and the results. Happy to walk through the code in an interview.
 
