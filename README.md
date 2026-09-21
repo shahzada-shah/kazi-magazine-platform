@@ -1,11 +1,6 @@
 <p align="center">
   <a href="https://kazimagazine.com"><img src="docs/readme/banner.png" alt="Kazi Magazine — under the hood. React 19, TypeScript, Cloudflare edge." width="100%"></a>
 </p>
-
-<p align="center">
-  <a href="https://kazimagazine.com"><img alt="Live site" src="https://img.shields.io/badge/live-kazimagazine.com-eb2d2d?style=flat-square&labelColor=121212"></a>
-</p>
-
 <!-- Repo: shahzada-shah/kazi-magazine-platform · see docs/readme/REPO_SETUP.md for name, description, topics, settings -->
 
 # Kazi Magazine
@@ -67,16 +62,6 @@ Hashed `/assets/*` are cached `immutable`; the shell is `no-store`. After a depl
 - **CI** (GitHub Actions) runs two jobs on every push and pull request: **verify** (lint → unit tests → typecheck + build) and **e2e**. Superseded runs are cancelled.
 - **Two deploy paths**, on purpose: Pages ships automatically from `main`; the Worker ships by hand so edge changes are always a deliberate step.
 - **Accessibility**: semantic landmarks, ARIA on interactive chrome, visible focus rings, ⌘K search, `prefers-reduced-motion` honoured on every animation.
-
-## Roadmap
-
-- [ ] WebP for the remaining large PNGs (category pills, footer wordmark), 60–70 % smaller
-- [ ] `srcset` on hero and article images via Sanity's URL builder
-- [ ] Single GROQ union for legacy `news` / `article` lookups, in the Worker and the client
-- [ ] `fetchPriority="high"` on above-the-fold coverflow images
-- [ ] Mount `/bubbling` and `/ysl-x-kazi` (components exist, routes not wired)
-- [ ] Article loading state: skeleton or top progress bar
-- [ ] Virtualize hub grids past ~20 items
 
 ## Author
 
